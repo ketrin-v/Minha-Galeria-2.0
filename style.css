@@ -29,9 +29,9 @@ hl{
 
   .imagem img {
 
-    width: 100%; 
+    width: 150%; 
 
-    max-width: 250px; /* define a largura */
+    max-width: 300px; /* define a largura */
 
     height: auto; /* define a altura */
 
