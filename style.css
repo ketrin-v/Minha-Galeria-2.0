@@ -29,9 +29,9 @@ hl{
 
   .imagem img {
 
-    width: 90%; /* cria espaço entre as imagens */
+    width: 80%; /* cria espaço entre as imagens */
 
-    max-width: 1500px; /* define a largura */
+    max-width: 2000px; /* define a largura */
 
     height: auto; /* define a altura */
 
