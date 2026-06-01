@@ -1,7 +1,7 @@
 body{
     margin: 0;  /* remove a margem */
 
-    background-color: rgb(175, 152, 185); /* Muda a cor do fundo */
+    background-color: rgba(157, 143, 163, 0.795); /* Muda a cor do fundo */
 
     font-family: Arial, Helvetica, sans-serif; /* Tipo da letra */
     
@@ -36,5 +36,5 @@ hl{
     height: auto; /* define a altura */
 
     justify-self: center;
-    
+
   }
