@@ -29,7 +29,7 @@ hl{
 
   .imagem img {
 
-    width: 110%; 
+    width: 95%; /* cria espaço entre as imagens */
 
     max-width: 400px; /* define a largura */
 
