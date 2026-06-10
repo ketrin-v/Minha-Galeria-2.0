@@ -19,7 +19,7 @@ hl{
 
     display : grid; /* Faz a tela ficar em 3x3*/
 
-    grid-template-columns: repeat(auto-fit,minmax(500px, 1fr) ) ; /* Cria colunas, auto fit = encaixa as colunas, minmax = restringe o número de colunas */
+    grid-template-columns: repeat(auto-fit,minmax(550px, 1fr) ) ; /* Cria colunas, auto fit = encaixa as colunas, minmax = restringe o número de colunas */
 
     margin: auto; /* Margem*/
 
